@@ -75,3 +75,8 @@ Dibuat oleh: Edi Suherlan (audhighasu.com)
 Aplikasi ini dibuat oleh [Edi Suherlan](https://audhighasu.com).  
 Silakan gunakan untuk pembelajaran dan pengembangan pribadi.
 
+## Screenshoot
+
+![1](https://github.com/user-attachments/assets/e9c95b41-aa2c-4381-9a61-016ca2f5abd5)
+
+
