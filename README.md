@@ -1,7 +1,4 @@
 # Game-Math-Adventure
-Game Mobile Sederhana Tema Matematika
-
-# Game-Math-Adventure
 
 Game Mobile Sederhana Bertema Matematika  
 Dibuat oleh: Edi Suherlan (audhighasu.com)
