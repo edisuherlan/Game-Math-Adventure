@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Math Adventure",
+    "slug": "math-adventure",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#4A90E2",
+      "image": "./src/assets/logo_splash.png",
+      "resizeMode": "cover"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#4A90E2"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
